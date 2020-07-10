@@ -1,17 +1,8 @@
-# 🔥🔥 Flutter Social App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+ 🔥🔥 Flutter Social App Concept
 
-Flutter representation of a Social App Concept i found on Uplabs.
+Flutter representation of a Social App Concept
 
 Star⭐ the repo if you like what you see😉.
-
-
-Images are from [Unsplash](https://unsplash.com)
-
-<a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
-
-[Link to Mockup](https://www.ls.graphics/free/simple-iphone-x-mockups)
-
-
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
@@ -41,7 +32,7 @@ To toggle the theme, change the `isDark` variable in `main.dart`.
 
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide**
+**Kevinmuchane**
 
 
 ## ☕️  Donate
@@ -53,5 +44,3 @@ Buy me a cup of Coffee😁
 | Bitcoin | 3GrziPW6Gz6S5mXo2EsiYpafW8vXVq5Rbv|
 
 
-## 🔖 LICENCE
-[WTFPL](http://www.wtfpl.net/about/)
