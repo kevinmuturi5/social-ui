@@ -41,6 +41,6 @@ Buy me a cup of Coffee😁
 
 | Mode | Link/Wallet|
 | ------| ------------|
-| Bitcoin | 3GrziPW6Gz6S5mXo2EsiYpafW8vXVq5Rbv|
+| PayPal|kevinmuturu5@gmail.com|
 
 
